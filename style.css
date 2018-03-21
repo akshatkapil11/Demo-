@@ -1,0 +1,154 @@
+ body {
+			position: absolute;
+			height: 100%;
+			min-width: 100%;
+			}
+.outer{
+		width:100%;
+		height:auto;
+	  }
+.upper{ 
+			width:100%;
+			height:80px;
+			background-color:#f1f1f1;
+	  }
+.upper1{ 
+		width:100%;	
+			height:auto;
+		padding-top:0px;
+			
+		}
+ h1{   text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+    color: #555;
+    font-size: 38px;
+    font-weight: 300;
+    margin-top: 27px;
+ }
+.middle{
+		width:100%;
+		height:auto;
+margin-top:-25px;		
+				display:inline-block;
+}
+.left{ 
+			width:40%;
+			height:auto;
+			margin-left:10%;
+			margin-top:3%;
+			float:left;
+}
+.mld{
+	font-size:2vw;	
+	color: #555;
+}
+.right{
+			 
+			width:25%;
+			height:auto;
+			margin-right:22%;
+			float:right;
+			margin-top:4%;
+			background-color:#f1f1f1;
+		}
+.footer{
+		padding-top: 9px;
+		font-size: .85em;
+		white-space: nowrap;
+		line-height: 0;
+		}			
+.footer ul li{
+			display: inline;
+			padding: 0 1.5em 0 0;
+			}
+.footer a 	{
+			color: #333;
+			}
+.button
+			{
+			background-color:orange;
+			margin-right:50%;
+			}
+p	{	
+	font-size:1vw;
+	text-align:center;
+	color: #555;
+	font-family: 'Open Sans', arial;
+	}
+ul	{
+	padding:auto;
+	margin-top:10px;
+	margin-right:10px;	
+	}
+li 	{
+    padding: 5px;
+    display: inline;
+    list-style: none;
+	font-size:1vw;
+    }
+label{
+		margin:0 0 3px 0;
+		padding:0px;
+		display:block;
+		font-weight: bold;
+	}
+.alignleft {
+				float: left;
+				margin-left:5%;
+				margin-top:20px;
+				
+			}
+.btn{	margin-top:1.5%;
+	    margin-right:5%;
+		font-weight: normal;
+		color:white;
+		background-color: blue;
+		width:7%;
+		height:40%;
+}
+		
+@media screen and (max-width:600px;) {
+  .left, .right {
+    width:100%;
+	}}
+img{
+  height: 36px;
+  width: 112px;
+  padding-top:0px;
+      
+  }
+	.a{
+		width:auto;
+		height:auto;
+		margin-top:2px;
+		padding-top:5px;
+		font-size:1vw;
+	
+	}
+	.info{
+			    margin: 1em 25px 0;
+    color: #999;
+	padding-left:28%;
+	font-size:1vw;
+	}
+	.mg{
+		float: right;
+  max-width: 20%;
+	}
+					form{
+							width:100%;
+							height:auto;							
+							padding-left:2%;
+							}
+.a,.b,.c,.d,.e,.f,.g,.g,.h{
+		padding:0%;
+		
+}
+		.l{
+		font-size:1vw;
+		margin:1%;
+		height:25px;
+		display:inline;
+		margin-left:1px;
+		
+		}
